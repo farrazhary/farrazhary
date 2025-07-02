@@ -44,9 +44,13 @@ Let’s connect and create something meaningful together!
 ### <img src="img/Globe.gif" width="18" height="18" /> Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrasazhary) 
 
-### <img src="img/bulbs.gif" width="18" height="18" /> Latest Projects
+### <img src="img/bulbs.gif" width="18" height="18" /> Featured Projects
 
 <img src="img/Cluster.gif" width="400" height="250" />
+
+| Project                                                                          | Description |
+|----------------------------------------------------------------------------------|-------------|
+| [Bank Marketing Analysis](https://github.com/farrazhary/Bank-Marketing-Analysis) | Exploratory data analysis, customer segmentation, and subscription behavior insights based on a bank marketing dataset. |
 
 ***
 
