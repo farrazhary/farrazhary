@@ -21,6 +21,7 @@ Let’s connect and create something meaningful together!
 
 **Frameworks & Libraries**
 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
@@ -28,8 +29,14 @@ Let’s connect and create something meaningful together!
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 <br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Analytics**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 
 **Databases**
 
@@ -39,17 +46,21 @@ Let’s connect and create something meaningful together!
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,git,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,postgresql,git,docker&perline=4)](https://skillicons.dev)
 
 ### <img src="img/Globe.gif" width="18" height="18" /> Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrasazhary) 
 
 ### <img src="img/bulbs.gif" width="18" height="18" /> Featured Projects
 
-<img src="img/Cluster.gif" width="400" height="250" />
+<div align="center">
+  <img src="img/Cluster.gif" width="400" height="250" />
+</div>
 
-| Project                                                                          | Description |
-|----------------------------------------------------------------------------------|-------------|
+| Project         | Description                                                                                                              |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------|
+| [CrediSense](https://github.com/farrazhary/Credisense) | A collaborative project to predict credit limit and customer segmentation to optimize credit card management strategies. |
+| [Visual Forensics: Deep Learning for Insurance Fraud Detection](https://github.com/farrazhary/Visual-Forensics) | Computer vision project to detect fraudulent insurance claims by classifying vehicle damage images using advanced CNN architectures. |
 | [Bank Marketing Analysis](https://github.com/farrazhary/Bank-Marketing-Analysis) | Exploratory data analysis, customer segmentation, and subscription behavior insights based on a bank marketing dataset. |
 
 ***
