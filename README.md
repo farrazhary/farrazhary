@@ -57,13 +57,13 @@ Let’s connect and create something meaningful together!
   <img src="img/Cluster.gif" width="400" height="250" />
 </div>
 
-| Project         | Description                                                                                                                          |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| [CrediSense](https://github.com/farrazhary/Credisense) | A collaborative project to predict credit limit and customer segmentation to optimize credit card management strategies. |
-| [Analysis of Procurement Process Efficiency and Supply Quality](https://github.com/farrazhary/Analysis-of-Procurement-Process-Efficiency-and-Supply-Quality) | Automated procurement performance analysis using Airflow, PostgreSQL, and Great Expectations to improve supply chain efficiency and ensure data quality compliance. |
-| [Visual Forensics: Deep Learning for Insurance Fraud Detection](https://github.com/farrazhary/Visual-Forensics) | Computer vision project to detect fraudulent insurance claims by classifying vehicle damage images using advanced CNN architectures. |
-| [Optimizing Auto Insurance Risk: A Machine Learning Approach to Claim Prediction](https://github.com/farrazhary/Optimizing-Auto-Insurance-Risk) | Predictive Modeling for Car Insurance Claims Using Ensemble and Cost-Sensitive Learning.                                             |
-| [Bank Marketing Analysis](https://github.com/farrazhary/Bank-Marketing-Analysis) | Exploratory data analysis, customer segmentation, and subscription behavior insights based on a bank marketing dataset.              |
+| Project                                                                                                                                                                                              | Description                                                                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| [CrediSense](https://github.com/farrazhary/Credisense)                                                                                                                                               | A collaborative project to predict credit limit and customer segmentation to optimize credit card management strategies. |
+| [Analysis of Procurement Process Efficiency and Supply Quality](https://github.com/farrazhary/Analysis-of-Procurement-Process-Efficiency-and-Supply-Quality)                                         | Automated procurement performance analysis using Airflow, PostgreSQL, and Great Expectations to improve supply chain efficiency and ensure data quality compliance. |
+| [Visual Forensics: Deep Learning for Insurance Fraud Detection](https://github.com/farrazhary/Visual-Forensics) [[Deploy]](https://huggingface.co/spaces/farrashv8/Insurance-fraud-claim-prediction) | Computer vision project to detect fraudulent insurance claims by classifying vehicle damage images using advanced CNN architectures. |
+| [Optimizing Auto Insurance Risk: A Machine Learning Approach to Claim Prediction](https://github.com/farrazhary/Optimizing-Auto-Insurance-Risk) [[Deploy]](https://huggingface.co/spaces/farrashv8/car-Insurance-claim-prediction)                                                     | Predictive Modeling for Car Insurance Claims Using Ensemble and Cost-Sensitive Learning.                                             |
+| [Bank Marketing Analysis](https://github.com/farrazhary/Bank-Marketing-Analysis)                                                                                                                     | Exploratory data analysis, customer segmentation, and subscription behavior insights based on a bank marketing dataset.              |
 
 ***
 
