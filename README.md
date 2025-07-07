@@ -1,8 +1,7 @@
 ![Farras Azhary](img/header%20image.png)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/farrazhary/count.svg?"  />
-</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=farrazhary&label=Profile%20views&color=0e75b6&style=flat" alt="farrazhary" /> </p>
 
 # Hi There! <img src="img/Wave.gif" width="35" height="35" />
 
