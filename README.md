@@ -58,6 +58,7 @@ Let’s connect and create something meaningful together!
 
 | Project                                                                                                                                                                                              | Description                                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| [ADAM – Automated Data Analysis and Media](https://github.com/farrazhary/ADAM-Automated-Data-Analysis-and-Media)                                                                                                                       | A WhatsApp-based automation platform built on n8n that combines **workflow automation, data analysis, summarization, recommendations, and media generation** (video, image, and voice). Powered by Google Gemini, Vertex AI + VEO 3, Supabase, and ElevenLabs. |
 | [CrediSense](https://github.com/farrazhary/Credisense)                                                                                                                                               | A collaborative project to predict credit limit and customer segmentation to optimize credit card management strategies. |
 | [Analysis of Procurement Process Efficiency and Supply Quality](https://github.com/farrazhary/Analysis-of-Procurement-Process-Efficiency-and-Supply-Quality)                                         | Automated procurement performance analysis using Airflow, PostgreSQL, and Great Expectations to improve supply chain efficiency and ensure data quality compliance. |
 | [Visual Forensics: Deep Learning for Insurance Fraud Detection](https://github.com/farrazhary/Visual-Forensics) [[Deploy]](https://huggingface.co/spaces/farrashv8/Insurance-fraud-claim-prediction) | Computer vision project to detect fraudulent insurance claims by classifying vehicle damage images using advanced CNN architectures. |
@@ -71,6 +72,7 @@ Let’s connect and create something meaningful together!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farrazhary/farrazhary/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farrazhary/farrazhary/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
